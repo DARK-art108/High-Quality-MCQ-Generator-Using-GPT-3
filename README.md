@@ -1,4 +1,4 @@
-# High-Quality-MCQ-Generator-Using-GPT-3
+# High Quality MCQ Generator Using GPT-3
 
 Builded a High Quality MCQ Generator Using GPT-3, the project is amided at solving the day to day task of the school, college teachers & profs in creating of MCQ's from a sample of text.I have came up with a very simple solution on utilizing GPT-3(Generative Pretrained Transformers) to solve this use case.
 
